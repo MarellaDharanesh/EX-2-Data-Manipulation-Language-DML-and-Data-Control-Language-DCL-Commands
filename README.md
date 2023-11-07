@@ -144,3 +144,6 @@ select avg(salary) from manager;
 ### OUTPUT:
 
 ![image](https://github.com/MarellaDharanesh/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/118707669/57122a3b-c78c-4f73-84e5-796890db7eb4)
+### Result:
+Thus it done by using data Manipulation Language (DML) Commands and built in functions in SQL
+
